@@ -8,3 +8,5 @@ Steps
 * Pull down remote repo using `git clone` 
 * Make initial commit - 
 * Done! 
+
+I hope this doesn't cause a conflict! 
